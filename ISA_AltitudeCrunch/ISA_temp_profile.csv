@@ -1,9 +1,0 @@
-Level name,Base Height (Km),Base Temperature K,Lapse Rate (C/Km),Base Pressure (Pa)
-Troposhere,0,288.15,-6.5,101325
-Tropopause,11000,,0,
-Stratosphere,20000,,1,
-Stratosphere,32000,,2.8,
-Stratopause,47000,,0,
-Mesosphere,51000,,-2.8,
-Mesosphere,71000,,-2,
-Mesopause,84852,,,

@@ -1,0 +1,9 @@
+Names,Height,Temperature,Lapse,Pressure
+Troposhere,0,288.15,-6.5,101325
+Tropopause,11000,0,0,0
+Stratosphere,20000,0,1,0
+Stratosphere,32000,0,2.8,0
+Stratopause,47000,0,0,0
+Mesosphere,51000,0,-2.8,0
+Mesosphere,71000,0,-2,0
+Mesopause,84852,0,0,0
